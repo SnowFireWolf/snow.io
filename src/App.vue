@@ -11,7 +11,7 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 
@@ -25,7 +25,7 @@ export default {
     height: 100vh;
     z-index: -1;
 
-    background-image: url("./assets/background.jpg");
+    background-image: url("./assets/background.webp");
     background-repeat: no-repeat;
     background-size: cover;
 }
