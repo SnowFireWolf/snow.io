@@ -10,18 +10,11 @@
             Contact
         </div>
         <div class="items">
+
             <a class="button-item" href="https://www.facebook.com/snowfirewolf" target="_blank">
                 <i class="fab fa-facebook"></i>
                 <!--<img class="icons" src="/images/icons/facebook.svg">-->
                 <div class="name">Facebook</div>
-            </a>
-            <a class="button-item" href="https://t.me/snowfirewolf" target="_blank">
-                <i class="fab fa-telegram"></i>
-                <div class="name">Telegram</div>
-            </a>
-            <a class="button-item" href="https://github.com/snowfirewolf" target="_blank">
-                <i class="fab fa-github"></i>
-                <div class="name">Github</div>
             </a>
             <a class="button-item" href="https://www.instagram.com/snowcupwolf/" target="_blank">
                 <i class="fab fa-instagram"></i>
@@ -31,6 +24,15 @@
                 <i class="fab fa-twitter"></i>
                 <div class="name">Twitter</div>
             </a>
+            <a class="button-item" href="https://t.me/snowfirewolf" target="_blank">
+                <i class="fab fa-telegram"></i>
+                <div class="name">Telegram</div>
+            </a>
+            <a class="button-item" href="https://github.com/snowfirewolf" target="_blank">
+                <i class="fab fa-github"></i>
+                <div class="name">Github</div>
+            </a>
+
         </div>
     </div>
 </template>

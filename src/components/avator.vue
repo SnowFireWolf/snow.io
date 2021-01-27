@@ -2,9 +2,9 @@
     <div id="header">
         <div class="header-content">
             <div class="content-card">
-                <div class="avatar"><img src="@/assets/images/1_pp.jpg"/></div>
+                <div class="avatar"><img src="@/assets/images/me.jpg"/></div>
                 <div class="name header-name">SnowFireWolf</div>
-                <div class="info description">I&apos;m a student,I like develop website!!!</div>
+                <div class="info description">I&apos;m a student, and love sky.😉</div>
             </div>
         </div>
     </div>

@@ -14,7 +14,7 @@
                 <img src="@/assets/images/uipack.png">
                 <div class="content">
                     <div style="margin-top:.4em;font-size: 1.8em;font-weight: 800;">UIPack</div>
-                    <div class="subtitle" style="margin-top:.2em;">Minecraft UIPack 官方網站</div>
+                    <div class="subtitle" style="margin-top:.2em;">Minecraft UIPack Offical Website</div>
                     <a class="main-cta float-right" href="https://uipack.reh.tw" target="_blank" style="margin-top:.4em;margin-bottom:.5em;margin-right:1em;">Go</a>
                 </div>
             </div>
@@ -22,7 +22,7 @@
                 <img src="@/assets/images/sfirew.png">
                 <div class="content">
                     <div style="margin-top:.4em;font-size: 1.8em;font-weight: 800;">SFireW</div>
-                    <div class="subtitle" style="margin-top:.2em;">Minecraft 伺服器搜尋引擎！</div>
+                    <div class="subtitle" style="margin-top:.2em;">Minecraft Server search engine!</div>
                     <a href="https://sfirew.com" class="main-cta float-right" target="_blank" style="margin-top:.4em;margin-bottom:.5em;margin-right:1em;">Go</a>
                 </div>
             </div>
