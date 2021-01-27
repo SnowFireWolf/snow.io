@@ -9,7 +9,7 @@ module.exports = {
             background_color: '#4DBA87',
         },
         msTileColor: '#4DBA87',
-        assetsVersion: '0.0001',
+       // assetsVersion: '0.0002',
     },
     css: {
         // 是否使用css分離外掛 ExtractTextPlugin
